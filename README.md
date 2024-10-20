@@ -1,2 +1,2 @@
-# DataScience-Capstone
-Capstone Project of DataScience Course
+# SpaceX Data collection
+Data collection, sorting and manipulating of data collected by spacex
